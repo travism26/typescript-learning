@@ -14,12 +14,12 @@ let myNums: number[] = [1, 2, 3];
 let myBool: boolean[] = [true, false, true];
 
 // Classes
-class Car {
+// class Car {
 
-}
+// }
 
 // instance of a car similar to java
-let car: Car = new Car();
+// let car: Car = new Car();
 
 // Object literal 
 // inline type setting
