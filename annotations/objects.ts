@@ -10,6 +10,7 @@ const profile = {
   }
 };
 
+// destructuring objects
 const { age }: { age: number } = profile;
 const { 
   corrds: { lat, lng } }: 
